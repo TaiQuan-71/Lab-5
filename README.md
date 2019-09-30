@@ -10,7 +10,7 @@ Explain the roles of application, utility and operating system software. Give an
 * Utility Software: software that allows you to fix or modify your computer in some way ( Antivirus software ).
 * Operating system software: Manageing the hardware resources of the computer, providing the user-terface components, and providing a platform for software developers to write applications.
 Explain the purpose of ERP software and provide an example.
-* ERP: is software application that is used by many of an organization's employees. a software application utilizing a central database that is implemented throughout the organization.
+* ERP: is software application that is used by many of an organization's employees. a software application utilizing a central database that is implemented throughout the organization (SAP).
 Explain the purpose of virtualization and describe how it differs from cloud computing.
 * The purpose of virtualization is to allow users to use software that makes environments independent of physical infrastructure.
 * Cloud computing differs from virtualization because it is a service that delivers shared computing resources( softwareand/or data ) on demand via the internet.
