@@ -25,3 +25,4 @@ Follow the vmware lab to create a virtual machine and upload screenshot of succe
 # Conclusion
 
 Summary of your understanding from this week's lab
+* This week's lab went over the varies types of software for example application, utility, and operating systems. Also the difference between virtualization and cloud computing.
